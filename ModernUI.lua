@@ -55,7 +55,6 @@ local UIPadding_9 = Instance.new("UIPadding")
 local UICorner_6 = Instance.new("UICorner")
 local TabBtn_2 = Instance.new("ImageButton")
 local TabBtn_3 = Instance.new("ImageButton")
-local Part_1 = Instance.new("Part")
 
 -- Properties:
 ModernUI.Name = "ModernUI"
